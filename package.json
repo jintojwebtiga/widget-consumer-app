@@ -1,0 +1,18 @@
+{
+  "name": "widget-consumer-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@jinto.j/integrated-widget-package": "0.0.2",
+    "@jinto.j/widget-package-iframe": "1.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"    
+  }
+}
