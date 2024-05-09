@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@jinto.j/integrated-widget-package": "0.0.2",
-    "@jinto.j/widget-package-iframe": "1.1.0"
+    "@jinto.j/widget-package-iframe": "2.1.0"
   },
   "devDependencies": {
     "vite": "^5.2.0"    
